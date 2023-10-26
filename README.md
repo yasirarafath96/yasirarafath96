@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python, AI, C# ASP.NET Frameworks**
 
-- ⚡ I’m currently studying ** Deep Learning Models **
+- ⚡ I’m currently studying ** C#, ASP .NET Frameworks, Python **
 
 - 🛠️ Technical skills **Python, Machine Learning, Deep Leanring, Computer Vison, C#, Cloud Computing**
 
