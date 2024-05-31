@@ -3,15 +3,14 @@
 <h3 align="center"> Computer Science Undergrad </h3>
 
 
-- 🔭 I’m currently working on **Python, AI, C# ASP.NET Frameworks**
+- 🔭 I’m currently working on **JAVASCRIPT, REACT.JS, BOOTSTRAP**
 
-- ⚡ I’m currently studying ** Next.js **
+- ⚡ I’m currently studying ** NEXT.js **
 
-- 🛠️ Technical skills **Python, Machine Learning, Deep Leanring, Computer Vison, C#, Cloud Computing**
+- 🛠️ Technical skills **JAVASCRIPT, NODE.js**
 
 - 📫 How to reach me **arafathyasir4000@gmail.com**
 
-- 📝 My Latest Publication  **https://zenodo.org/records/7972687**
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 
