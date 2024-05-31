@@ -1,6 +1,6 @@
 ![MaterHead](https://wallpaperaccess.com/full/1426870.png)
 <h1 align="center">Hi 👋, I'm Mohammed Yasir Arafath</h1>
-<h3 align="center"> Computer Science Undergrad </h3>
+<h3 align="center"> Computer Science </h3>
 
 
 - 🔭 I’m currently working on **JAVASCRIPT, REACT.JS, BOOTSTRAP**
